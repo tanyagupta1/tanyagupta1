@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyagupta1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="tanyagupta1's GitHub Stats" />
 </a>
 <a href="https://github.com/tanyagupta1/tanyagupta1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta1&hide=java,html,css&exclude_repo=Applozic-Web-Plugin,deep-learning-keras-tensorflow,Learning-Web-Development,JH-frontend-course,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta1&hide=java,html,css&exclude_repo=Applozic-Web-Plugin,deep-learning-keras-tensorflow,Learning-Web-Development,JH-frontend-course,&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
