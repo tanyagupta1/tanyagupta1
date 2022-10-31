@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/tanyagupta1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyagupta1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="tanyagupta1's GitHub Stats" />
-</a>
-<!-- <p>
-<a href="https://github.com/tanyagupta1/tanyagupta1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-  </p> -->
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyagupta1&count_private=true&theme=onedark" />
-</p>
-</a>
+<table style="width:100%">
+  <tr>
+    <td>
+      <img alt="alifarazz's Programming Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarazz&layout=compact&hide_border=true"/>
+    </td>
+    <td>
+      <img alt="alifarazz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alifarazz&show_icons=true&include_all_commits=true&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 <h2>Connect with Me</h2>
 <p>
     <a href="https://www.linkedin.com/in/tanya-gupta-9191aa215/"><img
