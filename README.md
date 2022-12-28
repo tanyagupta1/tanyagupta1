@@ -34,6 +34,6 @@ Here are some ideas to get you started:
             src="https://img.icons8.com/color/48/000000/gmail-new.png" alt='gmail'
             height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<p>
-  [![An image of @tanyagupta1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanyagupta1)](https://holopin.io/@tanyagupta1)
-</p>
+
+[![@tanyagupta1's Holopin board](https://holopin.me/tanyagupta1)](https://holopin.io/@tanyagupta1)
+
